@@ -18,3 +18,4 @@ copy-fonts = true
 no-section-label = false
 git-repository-url = "https://github.com/qkunzh"
 git-repository-icon = "fa-github-alt"
+site-url = "/8848/"
