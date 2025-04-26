@@ -34,5 +34,5 @@ cargo install mdbook
 # 学习历程
 
 ---
-<p align="right">张守磊写于25.04.25</p>
+<p align="right">写于25.04.25</p>
 
